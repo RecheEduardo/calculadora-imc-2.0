@@ -50,7 +50,7 @@
 * Utilizando-me de experiências prévias com design gráfico, utilizo o Adobe Photoshop para confeccionar elementos e editar preexistentes dentro da minha página web, pois acredito que dessa forma o resultado final cria uma autencidade e estética únicas, algo que agrega para o reconhecimento da sua aplicação.
 
 ## Considerações
-<p align = "justify">A ideia original do site foi publicada por mim mesmo no início de 2024, época na qual eu estava começando meus estudos na área de programação, caso queira visualizar a primeira versão deste projeto, clique <a href="https://recheeduardo.github.io/calculadora-imc/">aqui</a> para dar uma olhada!</p>
+<p align = "justify">A ideia original do site foi publicada por mim mesmo no início de 2024, época na qual eu estava começando meus estudos na área de programação, caso queira visualizar a primeira versão deste projeto, clique <a href="https://github.com/RecheEduardo/calculadora-imc">aqui</a> para dar uma olhada!</p>
 
 ##
 
