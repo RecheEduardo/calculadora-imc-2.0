@@ -20,7 +20,7 @@ body{
   height: 100svh;
 }
 
-nav{ background: linear-gradient(180deg, rgba(10,18,36,1) 0%, rgba(10, 18, 36, 0) 100%); }
+nav{ background: linear-gradient(180deg, rgba(10,18,36,1) 0%, rgba(10, 18, 36, 0) 100%); animation: fadeInDown 1.5s; }
 
 nav ul{
   list-style: none;
@@ -49,7 +49,7 @@ nav ul{
   height: 50vh;
   box-shadow: 10px 10px 0px 0px var(--pastel-gold);
   position: relative;
-  animation: fadeInUp .8s;
+  animation: popIn 1s;
 
 }.setup h1{
   font-weight: 900;
@@ -189,8 +189,14 @@ nav ul{
   }
 }
 
-@keyframes fadeInUp {
-  from{ opacity: 0%; transform: translateY(60px); }
+@keyframes popIn {
+  from{ opacity: 0%; scale: 0.75; }
+
+  to{ opacity: 100%; scale: 1; }
+}
+
+@keyframes fadeInDown {
+  from{ opacity: 0%; transform: translateY(-60px); }
 
   to{ opacity: 100%; transform: translateY(0px); }
 }
