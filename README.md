@@ -29,21 +29,29 @@
 
 # • Tecnologias Utilizadas
 
-<img loading="lazy" height = "35" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img loading="lazy" height = "35" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 * Com o React, mudei a abordagem das condições de funcionamento do programa. Ao invés de escutar eventos como no JS, utilizei a verificação de estados de componentes da página, abordagem essa que se mostrou muito mais eficaz para prevenção de erros e manutenibilidade do projeto.
 #
 
 <img loading="lazy" height = "35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-* Apenas com CSS básico e boas práticas, foi possível estilizar todas as 4 páginas utilizando reaproveitamento de estilos, variáveis e diversos paradigmas de estilização que corroboraram para um código limpo.
+* Apenas com CSS básico e boas práticas, foi possível estilizar o conteúdo utilizando reaproveitamento de estilos, variáveis e diversos paradigmas de estilização que corroboraram para um código limpo e entendível.
 #
 
 <img loading="lazy" height = "35" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
 * Aprimorar meus conhecimentos sobre ferramentas de controle e versionamento de código com o GIT foi crucial para que o projeto fosse concluído, pois dessa forma pude me guiar conforme alterações fossem feitas e assim impulsionar meu workflow.
 
+#
+
+<img loading="lazy" height = "35" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+
+* Utilizando-me de experiências prévias com design gráfico, utilizo o Adobe Photoshop para confeccionar elementos e editar preexistentes dentro da minha página web, pois acredito que dessa forma o resultado final cria uma autencidade e estética únicas, algo que agrega para o reconhecimento da sua aplicação.
+
 ## Considerações
-<p align = "justify">O site foi confeccionado para ser meu projeto final da disciplina de Desenvolvimento Front-End do curso de ADS da minha faculdade, o Instituto Federal De Sâo Paulo (IFSP)  <a href="http://gru.ifsp.edu.br/"><img width="18" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logotipo_IFET.svg/386px-Logotipo_IFET.svg.png" /></a>, pelo qual adquiri experiência necessária para retirar do papel a ideia de criar este site! ❤✔</p>
+<p align = "justify">A ideia original do site foi publicada por mim mesmo no início de 2024, época na qual eu estava começando meus estudos na área de programação, caso queira visualizar a primeira versão deste projeto, clique <a href="https://recheeduardo.github.io/calculadora-imc/">aqui</a> para dar uma olhada!</p>
 
 ##
+
+<p align="center">É isso! caso tenha gostado do projeto, não esqueça de me seguir aqui no meu perfil para conferir os proximos projetos 👊❤</p>
