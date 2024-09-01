@@ -54,11 +54,11 @@ const InitialSetup = () => {
             <div className="setup-infos">
               <label>
                 <p>Peso em kg:</p>
-                <input type="number" name="peso" id="userWeight" placeholder='Ex: 76.4' value={peso} onChange={(e) => usePeso(e.target.value)} required autoFocus/>
+                <input type="number" name="peso" id="userWeight" placeholder='Ex: 76.4' value={peso} onChange={(e) => usePeso(e.target.value)} autoFocus step={0.1}/>
               </label>
               <label>
                 <p>Altura em metros:</p>
-                <input type="number" name="height" id="userHeight" placeholder='Ex: 1.74' value={altura} onChange={(e) => useAltura(e.target.value)} required/>
+                <input type="number" name="height" id="userHeight" placeholder='Ex: 1.74' value={altura} onChange={(e) => useAltura(e.target.value)} step={0.01}/>
               </label>
             </div>  
             <div className="buttons">
