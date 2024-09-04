@@ -14,7 +14,7 @@ const InitialSetup = () => {
   }
 
   const handleFinish = (e) => {
-    if (!peso || !altura || peso < 0 || altura < 0) {
+    if (!peso || !altura || peso <= 0 || altura <= 0) {
       e.preventDefault();
       return
     }
